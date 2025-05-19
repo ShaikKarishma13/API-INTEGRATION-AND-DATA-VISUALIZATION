@@ -9,7 +9,7 @@
 
 
 
-## Overview
+##Project Overview
 
 This project demonstrates the integration of a public API with Python to fetch real-time data and visualize it using powerful data visualization libraries. The specific task focuses on utilizing the *OpenWeatherMap API* to retrieve weather forecast data for a given city and then creating meaningful insights using *Matplotlib* and *Seaborn*. The aim is to transform raw weather data into an easily interpretable visual format, which helps users better understand temperature and humidity trends over time.
 
